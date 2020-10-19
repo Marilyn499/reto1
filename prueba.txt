@@ -1,0 +1,3 @@
+1º Fichero de prueba
+2º Modifico este fichero para añadirlo al stage y sacarlo de ese estado
+3º Modifico el fichero nuevamente para hacer commit y sacarlo de ese estado
